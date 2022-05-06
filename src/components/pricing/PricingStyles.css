@@ -24,6 +24,11 @@
 .pricing .top-content p {
     color: var(--grey);
 }
+
+.pricing .btn-div {
+	margin-top: 1rem;
+}
+
 .pricing .bottom-content {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
